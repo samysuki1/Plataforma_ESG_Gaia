@@ -2,7 +2,7 @@
 
 ## Vercel
 
-Veja o deploy de uma parte do projeto no Vercel [LINK]()
+Veja o deploy de uma parte do projeto no Vercel [LINK](https://plataforma-esg-gaia.vercel.app/)
 
 
 ## App Mobile
