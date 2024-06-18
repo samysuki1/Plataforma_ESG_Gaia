@@ -10,13 +10,13 @@ export function Degree() {
           <span>Objetivos:</span> {DEGREE_CONFIG.DATA.INSTITUTION}
         </S.Paragraph>
         <S.Paragraph>
-          <span>•Consciência ecológica e proteção dos recursos subaquáticos</span> {DEGREE_CONFIG.DATA.COURSE}
+          <span>•Cadastro de Boas Práticas</span> {DEGREE_CONFIG.DATA.COURSE}
         </S.Paragraph>
         <S.Paragraph>
-          <span>•Pesquisas usando tecnologias para nos aproximar da natureza</span> {DEGREE_CONFIG.DATA.DURATION}
+          <span>•Pontuação e Ranqueamento</span> {DEGREE_CONFIG.DATA.DURATION}
         </S.Paragraph>
         <S.Paragraph>
-          <span>•Avançar na comunicação entre espécies para ajudar salvar vidas</span> {DEGREE_CONFIG.DATA.START}
+          <span>•Bonificação e Reconhecimento</span> {DEGREE_CONFIG.DATA.START}
         </S.Paragraph>
       </S.Content>
     </S.Wrapper>
